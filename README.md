@@ -20,12 +20,16 @@ A simple, testable image carousel built with React and Bootstrap icons.
 
 react-state-carousel-coins/
 ├── carousel/
+
 │ ├── public/
+
 │ ├── src/
+
 │ │ ├── Carousel.js
 │ │ ├── Card.js
 │ │ ├── _testCommon.js
 │ │ ├── Carousel.test.js
+
 │ └── package.json
 
 ## 🛠️ Installation
