@@ -26,8 +26,11 @@ react-state-carousel-coins/
 │ ├── src/
 
 │ │ ├── Carousel.js
+
 │ │ ├── Card.js
+
 │ │ ├── _testCommon.js
+
 │ │ ├── Carousel.test.js
 
 │ └── package.json
